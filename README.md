@@ -144,7 +144,7 @@ In Home view, all the views button will be available. Users will navigate to spe
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall Report.gif]([https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Overview_GIF.gif)
 
 ## Info Page
 
