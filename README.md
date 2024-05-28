@@ -7,7 +7,7 @@ AtliQ Hardware is experiencing rapid growth, prompting the implementation of dat
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDFkNzRkODQtODQ0Yi00Yzc0LTg5OGYtMWIwMDI3NGM0ZmUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Goal
-The primary objective is to utilize financial analytics to optimize AtliQ Hardware's performance and profitability. By analysing the company's financial data, the goal is to uncover actionable insights empowering decision-makers to make informed strategic choices and drive sustainable growth.
+The primary objective is to utilize financial analytics to optimize AtliQ Hardware's performance and profitability. By analyzing the company's financial data, the goal is to uncover actionable insights empowering decision-makers to make informed strategic choices and drive sustainable growth.
 
 ## Key Focus Areas
 1.	**Enhanced Profitability:** Identify opportunities to boost profitability through analysis of net profit, gross margin, and profit percentages.
@@ -123,7 +123,7 @@ The database being MySQL, datasets need to be imported from MySQL database to Po
 
 Data modelling is the foundation of any report, dictating its overall performance. Poor data modelling can significantly impact report efficiency. Following best practices is essential, and in this project, we've adopted the Snowflake data modelling method.
 
-<img src="https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Data%20Modeling.png" class="center">
+<img src="https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Data%20Modeling.png" class="center">
 
 ### Dashboard designing
 
@@ -144,11 +144,11 @@ In Home view, all the views button will be available. Users will navigate to spe
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Overview_GIF.gif)
+![Overall](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Overall.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Info.gif)
 
 ## Finance View
 
