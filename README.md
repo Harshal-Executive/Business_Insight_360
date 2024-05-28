@@ -123,7 +123,7 @@ The database being MySQL, datasets need to be imported from MySQL database to Po
 
 Data modelling is the foundation of any report, dictating its overall performance. Poor data modelling can significantly impact report efficiency. Following best practices is essential, and in this project, we've adopted the Snowflake data modelling method.
 
-<img src="[https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Data%20Modeling.png)" class="center">
+<img src="https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Data%20Modeling.png" class="center">
 
 ### Dashboard designing
 
