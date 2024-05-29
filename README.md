@@ -152,22 +152,22 @@ In Home view, all the views button will be available. Users will navigate to spe
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Finance.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Supply_Chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Executive.gif)
 
 ## Products
 
