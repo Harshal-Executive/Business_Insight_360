@@ -139,7 +139,6 @@ In Home view, all the views button will be available. Users will navigate to spe
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
 ## Overall Report
