@@ -170,6 +170,6 @@ In Home view, all the views button will be available. Users will navigate to spe
 ![Executive.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Executive.gif)
 
 
-## Project Outcome
+## Project Impact
 
 This report empowers data-driven decision-making and enables thorough understanding through insightful analysis. It serves as a powerful tool to address countless "why" questions, guiding actions based on comprehensive data insights.
